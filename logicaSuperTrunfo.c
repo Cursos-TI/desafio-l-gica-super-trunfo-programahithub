@@ -141,5 +141,5 @@ int main() {
 
     // Exemplo:
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
-
+    // Trabalho logicaSuperTrunfoComparação das cartas
     
